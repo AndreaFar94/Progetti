@@ -1,0 +1,15 @@
+Salve. Di seguito la traccia d'esame: 
+
+Vi sono stati forniti i dati relativi alle edizioni di Sanremo dal 1951 al 2023, organizzati in tre tabelle. 
+Effettuate un’analisi dei dati, scegliete una tematica che volete indagare (ad esempio, la differenza di genere nei vincitori, le ristampe delle canzoni, l’avvicendarsi dei presentatori… qualsiasi cosa vi appassioni va bene). 
+Effettuate tutto l’engineering che vi serve per poter generare delle visualizzazioni a sostegno dei vostri dati e generate un report su Looker Studio, prestando particolare attenzione allo storytelling: il report consegnato dovrà veicolare qualsiasi messaggio voi avrete scelto in modo chiaro e coerente.
+
+Il link per la visione del report è il seguente: 
+
+https://lookerstudio.google.com/reporting/cd166ad6-bbe5-4b65-a033-cb5d08f5c44b
+
+L'argomento che ho voluto trattare è stato quello di capire se, con l'aiuto di un autore, la canzone potesse avere un "valore" maggiore, rispetto a quella scritta dal cantante. Il report è diviso in due parti, una esplorativa dei dati, l'altra conclusiva con l'interpretazione degli stessi. 
+
+I file utilizzati sono quelli presenti nella cartella, più uno recuperato online per i generi dei cantanti.
+
+Grazie!
